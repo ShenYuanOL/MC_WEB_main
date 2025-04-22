@@ -1,0 +1,11 @@
+{
+  "name": "mc_web",
+  "version": "1.0.0",
+  "description": "MC_WEB系统的游戏插件，包含了事件监听与玩家各项数据过分记录",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShenYuan & BeneathVoid",
+  "license": "ISC"
+}

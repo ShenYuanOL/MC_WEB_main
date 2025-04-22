@@ -1,0 +1,10 @@
+{
+    "entry": "main.js",
+    "name": "MC_WEB",
+    "type": "lse-nodejs",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-nodejs"
+        }
+    ]
+}
